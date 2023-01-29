@@ -23,3 +23,7 @@
 1. Первая графа списка
 2. Вторая графа списка
 3. Третья графа списка 
+
+[Инструкция Markdown](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
+
+![Stray](/Users/Nikita/Desktop/stray.jpg)
